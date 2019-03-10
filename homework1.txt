@@ -1,0 +1,1 @@
+feacher : User should be registered successfully and see the message “Your registration completed”
